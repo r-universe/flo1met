@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/flo1met/flo1met.r-universe.dev
 	branch = HEAD
 [submodule "bvarnet"]
 	path = bvarnet
