@@ -5,3 +5,4 @@
 [submodule "bvarnet"]
 	path = bvarnet
 	url = https://github.com/flo1met/bvarnet
+	branch = dev
